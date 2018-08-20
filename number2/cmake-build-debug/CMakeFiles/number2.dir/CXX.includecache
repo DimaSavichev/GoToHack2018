@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Nataly/Desktop/hackathon/number2/main.cpp
+iostream
+-
+string
+-
+map
+-
+vector
+-
+fstream
+-
+iostream
+-
+
